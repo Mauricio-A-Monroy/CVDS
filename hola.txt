@@ -1,4 +1,12 @@
 prueba 1 
 huuuh
+<<<<<<< HEAD
 
 holi
+=======
+cambioooo
+
+>>>>>>> d1be93bc62e8aae52debb40265d9aa801bc0696d
+
+
+frvrvtrv
