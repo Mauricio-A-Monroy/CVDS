@@ -1,4 +1,21 @@
 prueba 1 
 huuuh
+<<<<<<< HEAD
+
+holi
+=======
 cambioooo
+<<<<<<< HEAD
 qué pasara?
+=======
+
+>>>>>>> d1be93bc62e8aae52debb40265d9aa801bc0696d
+
+
+frvrvtrv
+}
+
+
+
+aqui vamos 
+>>>>>>> 8ba866b61e515bcd70428089fe3ce65687c3e4a8
